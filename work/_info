@@ -1,0 +1,81 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/intelFPGA/20.1
+vhard_block
+Z0 !s110 1715161997
+!i10b 1
+!s100 W5D2^W2`cQ3M3J;dfFV1=3
+Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
+ImkJUHCQdW`hU6NC@ZY98W3
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 dC:/Users/An/Desktop/HW3/final
+Z4 w1714727061
+Z5 8C:/Users/An/Desktop/HW3/final/MM.vo
+Z6 FC:/Users/An/Desktop/HW3/final/MM.vo
+!i122 54
+L0 44785 34
+Z7 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z8 !s108 1715161997.000000
+Z9 !s107 C:/Users/An/Desktop/HW3/final/MM.vo|
+Z10 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/An/Desktop/HW3/final/MM.vo|
+!i113 1
+Z11 o-work work
+Z12 tCvgOpt 0
+vMM
+R0
+!i10b 1
+!s100 GmaZgO?U^F05IHUUOkbfU3
+R1
+InV?jGRbQ1GlGfomoK8bz01
+R2
+R3
+R4
+R5
+R6
+!i122 54
+L0 32 44752
+R7
+r1
+!s85 0
+31
+R8
+R9
+R10
+!i113 1
+R11
+R12
+n@m@m
+vtestfixture1
+!s110 1715161998
+!i10b 1
+!s100 F;43L?9icjM0SUc53A?Gj0
+R1
+I=^[^:`Ug_8=2J;P[JTOIU3
+R2
+R3
+w1714726947
+8C:/Users/An/Desktop/HW3/final/testfixture.v
+FC:/Users/An/Desktop/HW3/final/testfixture.v
+!i122 55
+L0 7 379
+R7
+r1
+!s85 0
+31
+R8
+!s107 C:/Users/An/Desktop/HW3/final/testfixture.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/An/Desktop/HW3/final/testfixture.v|
+!i113 1
+R11
+R12
