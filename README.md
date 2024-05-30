@@ -1,3 +1,3 @@
 # Digital-Ic-Design_Lab3
-Software : Modelsim
+Simulation : Modelsim
 Synthesis : Quartus
